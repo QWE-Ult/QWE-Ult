@@ -1,7 +1,7 @@
 #  Hi, I'm Yash Meghnathi
 
  **Blockchain Developer**  
-I am currently acquiring skills in developing decentralized applications using Solidity, with a strong interest in Web3 technologies, decentralized applications (dApps), and cryptocurrency ecosystems.
+I am currently acquiring skills in developing decentralized applications using Solidity, with a strong interest in Web3 technologies, dApps, and cryptocurrency ecosystems.
 
 Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, and **Hyperledger Fabric** to create transparent, trustless solutions for the future of technology.
 
@@ -12,8 +12,7 @@ Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, an
 - **Languages:** Solidity, JavaScript  
 - **Blockchains:** Ethereum, Bitcoin, Hyperledger Fabric  
 - **Development:** Remix IDE, MetaMask, Hardhat  
-- **Libraries:** OpenZeppelin, Ethers.js  
-- **Utilities:** Etherscan, Chainlink, IPFS  
+- **Utilities:** Etherscan, OpenZepellin, Chainlink, IPFS  
 
 ---
 
