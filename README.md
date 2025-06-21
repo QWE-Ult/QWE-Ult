@@ -12,7 +12,7 @@ Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, an
 - **Languages:** Solidity, JavaScript  
 - **Blockchains:** Ethereum, Bitcoin, Hyperledger Fabric  
 - **Development:** Remix IDE, MetaMask, Hardhat  
-- **Utilities:** Etherscan, OpenZepellin, Chainlink, IPFS  
+- **Utilities:** Etherscan, OpenZeppelin, Chainlink, IPFS  
 
 ---
 
