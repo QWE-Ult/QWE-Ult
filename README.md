@@ -22,7 +22,6 @@ Currently exploring smart contract platforms like **Ethereum**, **Bitcoin**, and
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YashMeghnathi&show_icons=true&theme=radical" />
 </div>
 
 ---
