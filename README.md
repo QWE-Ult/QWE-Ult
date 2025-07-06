@@ -1,24 +1,29 @@
-#  Hi, I'm Yash Meghnathi
+# 👋 Hi, I'm Yash Meghnathi
 
- **Blockchain Developer**  
-I am currently acquiring skills in developing decentralized applications using Solidity, with a strong interest in Web3 technologies, dApps, and cryptocurrency ecosystems.
+A passionate **Blockchain Developer** building smart, decentralized solutions for the Web3 ecosystem.
 
-Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, and **Hyperledger Fabric** to create transparent, trustless solutions for the future of technology.
+I'm actively developing skills in building dApps using **Solidity**, with a strong interest in **Web3 technologies**, **smart contracts**, and the **cryptocurrency ecosystem**.
+
+Currently exploring smart contract platforms like **Ethereum**, **Bitcoin**, and **Hyperledger Fabric** to create transparent, trustless applications for the future of technology.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Solidity, JavaScript  
-- **Blockchains:** Ethereum, Bitcoin, Hyperledger Fabric  
-- **Development:** Remix IDE, MetaMask, Hardhat  
-- **Utilities:** Etherscan, OpenZeppelin, Chainlink, IPFS  
+- 🧠 **Languages:** Solidity, JavaScript, Java, HTML, CSS  
+- ⛓️ **Blockchains:** Ethereum, Bitcoin, Hyperledger Fabric  
+- 🧰 **Development:** Remix IDE, MetaMask, Hardhat  
+- 🔗 **Utilities:** Etherscan, OpenZeppelin, Chainlink, IPFS  
 
 ---
 
 ## 🌐 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashMeghnathi&show_icons=true&theme=radical" />
+</div>
 
 ---
 
@@ -34,10 +39,6 @@ Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, an
 ![OpenZeppelin](https://img.shields.io/badge/Library-OpenZeppelin-critical.svg)
 ![MetaMask](https://img.shields.io/badge/Wallet-MetaMask-orange.svg)
 
-### 📦 Project Details
-![Dependencies](https://img.shields.io/badge/Dependencies-10-blue.svg)
-![Dev Dependencies](https://img.shields.io/badge/Dev%20Dependencies-5-yellow.svg)
-
 ---
 
 ## 📬 Let's Connect
@@ -47,4 +48,5 @@ Currently exploring smart contract ecosystems like **Ethereum**, **Bitcoin**, an
 
 ---
 
-  
+> “Code is law. Blockchain is the court.”  
+> — Exploring trustless systems, one block at a time.
