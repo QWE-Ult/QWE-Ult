@@ -39,24 +39,11 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🌱 Currently Learning
+## ## 📂 Repository Highlights
 
-### 📊 Data Analytics
+Most of my repositories focus on real-world blockchain use cases, including voting systems, escrow services, crowdfunding platforms, and healthcare applications.
 
-- Advanced Pandas
-- Data Cleaning Techniques
-- SQL Optimization
-- Statistical Analysis
-- Business Problem Solving
-
-### ⛓️ Blockchain
-
-- Foundry Testing
-- Hardhat Framework
-- Smart Contract Auditing
-- Gas Optimization
-
----
+As I transition into Data Analytics, you'll also start seeing Python and SQL projects appear here.
 
 ## 📫 Connect With Me
 
