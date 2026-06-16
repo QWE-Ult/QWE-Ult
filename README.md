@@ -38,7 +38,6 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
----
 
 ## 🌱 Currently Learning
 
