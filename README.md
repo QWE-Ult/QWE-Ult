@@ -1,12 +1,17 @@
+```md
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Blockchain+Developer+%E2%9B%93;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </p>
 
 # Hi 👋, I'm Yash Meghnathi
 
-### 📊 Data Analytics Enthusiast | ⛓️ Blockchain Developer
+### 📊 Exploring Data Analytics | ⛓️ Building on Blockchain
 
 I'm a blockchain developer transitioning into Data Analytics, passionate about using data to uncover insights and technology to solve real-world problems.
+
+<p align="center">
+  <i>From smart contracts to spreadsheets — always learning by building.</i>
+</p>
 
 ---
 
@@ -39,19 +44,33 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
 ## 📂 Repository Highlights
 
-Most of my repositories focus on real-world blockchain use cases, including voting systems, escrow services, crowdfunding platforms, and healthcare applications.
+This GitHub started as a place to explore blockchain through hands-on projects.
 
-As I transition into Data Analytics, you'll also start seeing Python and SQL projects appear here.
+You'll find smart contracts covering voting systems, escrow services, crowdfunding platforms, healthcare applications, and other real-world use cases.
+
+As I grow into Data Analytics, this space will gradually reflect that journey too.
+
+---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-QWE--Ult-181717?style=for-the-badge&logo=github)](https://github.com/QWE-Ult)
+<p align="center">
+  <a href="https://github.com/QWE-Ult">
+    <img src="https://img.shields.io/badge/GitHub-QWE--Ult-181717?style=for-the-badge&logo=github" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Meghnathi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashmeghnathi/)
+  <a href="https://www.linkedin.com/in/yashmeghnathi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Meghnathi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmeghnathi16.11@gmail.com)
+  <a href="mailto:yashmeghnathi16.11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -60,3 +79,12 @@ As I transition into Data Analytics, you'll also start seeing Python and SQL pro
 I spend hours automating a task that takes five minutes… and somehow consider that a productive use of time.
 
 If my code works on the first try, I don't celebrate—I start wondering what I forgot to test.
+
+---
+
+## 🌃 GitHub Skyline
+
+One of my favorite GitHub features is Skyline, which turns contribution history into a 3D cityscape.
+
+🔗 https://skyline.github.com/
+```
