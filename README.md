@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Blockchain+Developer+%E2%9B%93;Learning+by+building+real+projects;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+</p>
 # Hi 👋, I'm Yash Meghnathi
 
 ### 📊 Aspiring Data Analyst | ⛓️ Blockchain Developer
