@@ -39,8 +39,9 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
