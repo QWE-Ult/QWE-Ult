@@ -2,12 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Blockchain+Developer+%E2%9B%93;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </p>
+<h1 align="center">Hi 👋, I'm Yash Meghnathi</h1>
 
-# Hi 👋, I'm Yash Meghnathi
-
-### 📊 Exploring Data Analytics | ⛓️ Building on Blockchain
-
+<h3 align="center">
+📊 Exploring Data Analytics | ⛓️ Building on Blockchain
+</h3>
+<p align="center">
 I'm a blockchain developer transitioning into Data Analytics, passionate about using data to uncover insights and technology to solve real-world problems.
+</p>
 
 <p align="center">
   <i>From smart contracts to spreadsheets — always learning by building.</i>
@@ -21,7 +23,6 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
 - ⛓️ Experienced in building **Solidity-based blockchain projects**
 - 🐍 Learning advanced **Python for data analysis**
 - 🗄️ Exploring **SQL and business analytics**
-- 🌱 I enjoy learning by building real projects
 - 🎯 Always looking for ways to combine analytical thinking with technical problem-solving
 
 ---
@@ -50,14 +51,14 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
 ---
 ## 📂 Repository Highlights
 
-💸 DEX Passive Reward Contract  
-🔐 Upgradeable Security Contract  
-🗳️ Decentralized Voting System  
-🤝 Escrow Service  
-🎯 Crowdfunding Platform  
-🏥 Healthcare Record Management  
+- 💸 [DEX Passive Reward Contract](https://github.com/QWE-Ult/Dex-Passive-Reward)
+- 🔐 [Upgradeable Security Contract](https://github.com/QWE-Ult/Upgradeable-Security-Contract)
+- 🏥 [Decentralized Patient Record Management System](https://github.com/QWE-Ult/Decentralized-Patient-Record-Management-System-)
+- 🤝 [Decentralized Escrow](https://github.com/QWE-Ult/DECENTRALIZED-ESCROW)
+- 🎯 [Decentralized Crowdfunding](https://github.com/QWE-Ult/DECENTRALIZED-CROWDFUNDING)
+- 🗳️ [Decentralized Voting System](https://github.com/QWE-Ult/DECENTRALIZED-VOTING)
 
-📊 More Python and Data Analytics projects coming soon.
+📊 This space continues to evolve as I document my transition into Data Analytics.
 
 ---
 
@@ -87,9 +88,3 @@ If my code works on the first try, I don't celebrate—I start wondering what I 
 
 ---
 
-## 🌃 GitHub Skyline
-
-One of my favorite GitHub features is Skyline, which turns contribution history into a 3D cityscape.
-
-🔗 https://skyline.github.com/
-```
