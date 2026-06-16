@@ -61,23 +61,13 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
 📊 This space continues to evolve as I document my transition into Data Analytics.
 
 ---
-
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/QWE-Ult">
-    <img src="https://img.shields.io/badge/GitHub-QWE--Ult-181717?style=for-the-badge&logo=github" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-QWE--Ult-181717?style=for-the-badge&logo=github)](https://github.com/QWE-Ult)
 
-  <a href="https://www.linkedin.com/in/yashmeghnathi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Meghnathi-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Meghnathi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashmeghnathi/)
 
-  <a href="mailto:yashmeghnathi16.11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmeghnathi16.11@gmail.com)
 ---
 
 ## 💡 Fun Fact
