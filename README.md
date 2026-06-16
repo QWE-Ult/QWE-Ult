@@ -23,25 +23,21 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-- Python
-- Pandas
-- NumPy
-- SQL
-- Excel
-
-### ⛓️ Blockchain
-
-- Solidity
-- Ethereum
-- Smart Contracts
-- DeFi Concepts
-- Hardhat
-- Foundry
-- Smart Contract Security
-- Git & GitHub
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 ---
 
 ## 🌱 Currently Learning
