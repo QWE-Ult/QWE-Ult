@@ -47,18 +47,16 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
 ---
 ## 📂 Repository Highlights
 
-This GitHub started as a playground for exploring blockchain through hands-on projects and practical use cases.
+💸 DEX Passive Reward Contract  
+🔐 Upgradeable Security Contract  
+🗳️ Decentralized Voting System  
+🤝 Escrow Service  
+🎯 Crowdfunding Platform  
+🏥 Healthcare Record Management  
 
-Some of the projects I'm most proud of include:
+📊 More Python and Data Analytics projects coming soon.
 
-- 💸 **DEX Passive Reward Contract** – Designed reward mechanisms for token holders, focusing on sustainable distribution models and DeFi concepts.
-- 🔐 **Upgradeable Security Contract** – Explored upgradeable smart contract patterns with a focus on maintainability and security considerations.
-- 🗳️ **Decentralized Voting System** – Built transparent voting logic using immutable blockchain records.
-- 🤝 **Escrow Service** – Developed trustless contracts for secure transactions and automated settlements.
-- 🎯 **Crowdfunding Platform** – Enabled decentralized fundraising without intermediaries.
-- 🏥 **Healthcare Record Management** – Investigated blockchain applications for secure and accessible healthcare records.
-
-As I transition into Data Analytics, this space will gradually evolve to include projects focused on Python, SQL, and data-driven problem solving.
+---
 
 ## 📫 Connect With Me
 
