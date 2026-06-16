@@ -39,7 +39,7 @@ I'm a blockchain developer transitioning into Data Analytics, passionate about u
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## ## 📂 Repository Highlights
+## 📂 Repository Highlights
 
 Most of my repositories focus on real-world blockchain use cases, including voting systems, escrow services, crowdfunding platforms, and healthcare applications.
 
